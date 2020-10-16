@@ -3,4 +3,4 @@ this is test;
 there have a modification.
 this is the second modification.
 Git has a mutable index called stage.
-Git tracks changes.
+Git tracks changes of files.
